@@ -1,0 +1,5 @@
+apt update 
+apt upgrade 
+pkg install
+pkg update 
+sl
